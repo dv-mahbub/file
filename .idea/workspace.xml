@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7b7613-34ab-423d-863a-5eab9d37ab34" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/All.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stylish_text/All.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bounce.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stylish_text/Bounce.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fade.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stylish_text/Fade.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stylish_text/Linear.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oscillate.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stylish_text/Oscillate.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Typewriter.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stylish_text/Typewriter.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish_text/nothing" beforeDir="false" />
+    <list default="true" id="3a7b7613-34ab-423d-863a-5eab9d37ab34" name="Changes" comment="firebase_authentication directory added">
+      <change afterPath="$PROJECT_DIR$/weather/cloudy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/location.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/rainy.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/snow.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather/sunny.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,6 +42,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\StudioProjects\files\weather" />
+      <recent name="C:\Users\ASUS\StudioProjects\files\firebase_authentication" />
       <recent name="C:\Users\ASUS\StudioProjects\files\stylish_text" />
       <recent name="C:\Users\ASUS\StudioProjects\files\android\stylish_text" />
     </key>
@@ -76,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678628683992</updated>
     </task>
+    <task id="LOCAL-00001" summary="firebase_authentication directory added">
+      <created>1680536756033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680536756033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firebase_authentication directory added" />
+    <option name="LAST_COMMIT_MESSAGE" value="firebase_authentication directory added" />
   </component>
 </project>
