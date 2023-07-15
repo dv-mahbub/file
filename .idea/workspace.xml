@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7b7613-34ab-423d-863a-5eab9d37ab34" name="Changes" comment="firebase_authentication directory added">
-      <change afterPath="$PROJECT_DIR$/weather/cloudy.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/location.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/rainy.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/snow.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather/sunny.jpeg" afterDir="false" />
+    <list default="true" id="3a7b7613-34ab-423d-863a-5eab9d37ab34" name="Changes" comment="weather added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680536756033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="weather added">
+      <created>1688234560212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688234560212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firebase_authentication directory added" />
-    <option name="LAST_COMMIT_MESSAGE" value="firebase_authentication directory added" />
+    <MESSAGE value="weather added" />
+    <option name="LAST_COMMIT_MESSAGE" value="weather added" />
   </component>
 </project>
