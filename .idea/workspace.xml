@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7b7613-34ab-423d-863a-5eab9d37ab34" name="Changes" comment="animated_fab">
+    <list default="true" id="3a7b7613-34ab-423d-863a-5eab9d37ab34" name="Changes" comment="faithful_path">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +37,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\StudioProjects\files\faithful_path" />
       <recent name="C:\Users\ASUS\StudioProjects\files\animated_fab" />
       <recent name="C:\Users\ASUS\StudioProjects\files\weather" />
       <recent name="C:\Users\ASUS\StudioProjects\files\firebase_authentication" />
       <recent name="C:\Users\ASUS\StudioProjects\files\stylish_text" />
-      <recent name="C:\Users\ASUS\StudioProjects\files\android\stylish_text" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689417205897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="faithful_path">
+      <created>1689421589834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689421589834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +118,7 @@
     <MESSAGE value="firebase_authentication directory added" />
     <MESSAGE value="weather added" />
     <MESSAGE value="animated_fab" />
-    <option name="LAST_COMMIT_MESSAGE" value="animated_fab" />
+    <MESSAGE value="faithful_path" />
+    <option name="LAST_COMMIT_MESSAGE" value="faithful_path" />
   </component>
 </project>
